@@ -1,0 +1,20 @@
+[
+    {
+        "titre": "Gladiator",
+        "date_sortie": "2000-05-05",
+        "note": 4.5,
+        "avis": [
+            "Epic historical drama!",
+            "Russell Crowe delivers a powerhouse performance!"
+        ]
+    },
+    {
+        "titre": "Inception",
+        "date_sortie": "2010-07-16",
+        "note": 4.8,
+        "avis": [
+            "Mind-bending masterpiece!",
+            "Leonardo DiCaprio shines!"
+        ]
+    }
+]
